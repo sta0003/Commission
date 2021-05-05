@@ -1,5 +1,5 @@
-# Commison
-This is where development releses of the game "Commision" will be located.
+# Commisson
+This is where development releses of the game "Commission" will be located.
 
 
 
